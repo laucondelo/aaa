@@ -4,7 +4,7 @@
 namespace GameCards
 {
     class TestCard
-    {
+    {// ccocomcommcommecommecommencommentcomment
         static void Main(string[] arg)
         {
             //Card card= new CircleCard(5);
